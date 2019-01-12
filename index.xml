@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kritiker Classical Music on Kritiker - Classical Music</title>
-    <link>localhost:1313/</link>
+    <link>https://kritiker.xyz/</link>
     <description>Recent content in Kritiker Classical Music on Kritiker - Classical Music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
@@ -11,37 +11,37 @@
     
     <item>
       <title>About</title>
-      <link>localhost:1313/about/</link>
+      <link>https://kritiker.xyz/about/</link>
       <pubDate>Sun, 06 Jan 2019 12:43:46 +0100</pubDate>
       
-      <guid>localhost:1313/about/</guid>
+      <guid>https://kritiker.xyz/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Herbert von Karajan</title>
-      <link>localhost:1313/essays/herbert-von-karajan-musicianship/</link>
+      <link>https://kritiker.xyz/essays/herbert-von-karajan-musicianship/</link>
       <pubDate>Fri, 07 Dec 2018 13:37:22 -0400</pubDate>
       
-      <guid>localhost:1313/essays/herbert-von-karajan-musicianship/</guid>
+      <guid>https://kritiker.xyz/essays/herbert-von-karajan-musicianship/</guid>
       <description>Like him or not, he remains one of the great conductors</description>
     </item>
     
     <item>
       <title>Cookie Policy</title>
-      <link>localhost:1313/cookie/</link>
+      <link>https://kritiker.xyz/cookie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/cookie/</guid>
+      <guid>https://kritiker.xyz/cookie/</guid>
       <description>How this site uses cookie</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>localhost:1313/tag/</link>
+      <link>https://kritiker.xyz/tag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tag/</guid>
+      <guid>https://kritiker.xyz/tag/</guid>
       <description>A list of all tags</description>
     </item>
     
