@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>Cookie Policy</title>
+      <link>localhost:1313/cookie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/cookie/</guid>
+      <description>How this site uses cookie</description>
+    </item>
+    
+    <item>
       <title>Tags</title>
       <link>localhost:1313/tag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

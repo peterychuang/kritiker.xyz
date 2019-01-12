@@ -12,6 +12,10 @@
   </url>
   
   <url>
+    <loc>localhost:1313/cookie/</loc>
+  </url>
+  
+  <url>
     <loc>localhost:1313/essays/</loc>
     <lastmod>2018-12-07T13:37:22-04:00</lastmod>
     <priority>0</priority>
