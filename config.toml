@@ -1,0 +1,16 @@
+baseURL = "localhost:1313"
+languageCode = "en-gb"
+title = "Kritiker - Classical Music"
+theme = "criticism"
+publishdir = "./_output/hugo-stage-1/"
+pluralizelisttitles = "false"
+footnoteReturnLinkContents = "^"
+
+[params]
+  description = "Reviews and essays on classical music - recordings, live performances, and everything else."
+  author = "Peter Y. Chuang"
+  Urlimg = "assets/img/"
+
+[taxonomies]
+  tag= "tag"
+  category= "categories"

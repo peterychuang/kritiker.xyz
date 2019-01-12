@@ -1,0 +1,27 @@
+{{ if and ( eq .Section "reviews" ) ( .IsPage ) }}
+  <nav class="navbar navbar-default navbar-fixed-top">
+{{ else }}
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+{{ end }}
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-main-collapse" aria-expanded="false">
+          <i class="fa fa-bars fa-inverse"></i>
+      </button>
+      <a class="navbar-brand" href="/"><i class="fa fa-pencil">&nbsp;</i> {{ .Site.Title }}</a>
+    </div>
+    <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+      <ul class="nav navbar-nav" id="navmenu">
+        {{ partial "common/nav-social.html" . }}
+        <li><a href="/about/"> About </a></li>
+        <li><a href="/contact"> Contact </a></li>
+        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"> Language <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/"> EN </a></li>
+            <li><a href="/"> ZH </a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
