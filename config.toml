@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://kritiker.xyz"
 languageCode = "en-gb"
 title = "Kritiker - Classical Music"
 theme = "criticism"
