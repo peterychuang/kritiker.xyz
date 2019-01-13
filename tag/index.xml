@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tag on Kritiker - Classical Music</title>
+    <title>Tag on Kritiker</title>
     <link>https://kritiker.xyz/tag/</link>
-    <description>Recent content in Tag on Kritiker - Classical Music</description>
+    <description>Recent content in Tag on Kritiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 07 Dec 2018 13:37:22 -0400</lastBuildDate>
@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Music</title>
-      <link>https://kritiker.xyz/tag/music/</link>
+      <title>Conductor</title>
+      <link>https://kritiker.xyz/tag/conductor/</link>
       <pubDate>Fri, 07 Dec 2018 13:37:22 -0400</pubDate>
       
-      <guid>https://kritiker.xyz/tag/music/</guid>
+      <guid>https://kritiker.xyz/tag/conductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herbert Von Karajan</title>
+      <link>https://kritiker.xyz/tag/herbert-von-karajan/</link>
+      <pubDate>Fri, 07 Dec 2018 13:37:22 -0400</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/herbert-von-karajan/</guid>
       <description></description>
     </item>
     
