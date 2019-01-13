@@ -3,7 +3,7 @@ layout: reviews
 draft: true
 aliases: null
 author: Peter Y. Chuang
-date: ""
+date: {{ .Date }}
 description:
 cover:
 tag:
