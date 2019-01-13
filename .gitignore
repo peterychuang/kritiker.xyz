@@ -8,3 +8,4 @@ key
 key.pub
 public
 package-lock.json
+content/zh/**
