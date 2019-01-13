@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conductor on Kritiker</title>
-    <link>https://kritiker.xyz/tag/conductor/</link>
-    <description>Recent content in Conductor on Kritiker</description>
+    <title>Gewandhausorchester Leipzig on Kritiker</title>
+    <link>https://kritiker.xyz/tag/gewandhausorchester-leipzig/</link>
+    <description>Recent content in Gewandhausorchester Leipzig on Kritiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 13 Jan 2019 15:57:22 +0100</lastBuildDate>
     
-	<atom:link href="https://kritiker.xyz/tag/conductor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kritiker.xyz/tag/gewandhausorchester-leipzig/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://kritiker.xyz/reviews/2019-01-13-herbert-blomstedt-beethoven/</guid>
       <description>As the most popular work of the entire orchestral repertoires, Beethoven&amp;rsquo;s nine symphonies are among the most recorded works in history: we have recordings from virtually all conductors, living or dead, and most great orchestras. As a result, seasoned listeners have all formed their own opinions on what these pieces should sound like (whether their opinions are formed by studying the scores or studying all the recordings is open to debate), and they are difficult to impress when new reocrdings come out.</description>
-    </item>
-    
-    <item>
-      <title>On Herbert von Karajan</title>
-      <link>https://kritiker.xyz/essays/herbert-von-karajan-musicianship/</link>
-      <pubDate>Fri, 07 Dec 2018 13:37:22 -0400</pubDate>
-      
-      <guid>https://kritiker.xyz/essays/herbert-von-karajan-musicianship/</guid>
-      <description>One of the great conductors whom I idolised in my teens was Herbert von Karajan, an Austrian conductor who was the chief conductor of the Berliner Philharmoniker for more than thirty years. The first video recording of an orchestra that I saw was Karajan&amp;rsquo;s conducting Beethoven sixth and seventh symphonies on laser disc, which fascinated me with an incredible visual imagery of the orchestra. One of my music teachers at the time also revered Herbert von Karajan, saying that he was amazed by how much power he could get from the orchestra with minimal gestures.</description>
     </item>
     
   </channel>

@@ -6,7 +6,7 @@
     <description>Recent content in Tag on Kritiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 07 Dec 2018 13:37:22 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 15:57:22 +0100</lastBuildDate>
     
 	<atom:link href="https://kritiker.xyz/tag/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Conductor</title>
       <link>https://kritiker.xyz/tag/conductor/</link>
-      <pubDate>Fri, 07 Dec 2018 13:37:22 -0400</pubDate>
+      <pubDate>Sun, 13 Jan 2019 15:57:22 +0100</pubDate>
       
       <guid>https://kritiker.xyz/tag/conductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gewandhausorchester Leipzig</title>
+      <link>https://kritiker.xyz/tag/gewandhausorchester-leipzig/</link>
+      <pubDate>Sun, 13 Jan 2019 15:57:22 +0100</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/gewandhausorchester-leipzig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herbert Blomstedt</title>
+      <link>https://kritiker.xyz/tag/herbert-blomstedt/</link>
+      <pubDate>Sun, 13 Jan 2019 15:57:22 +0100</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/herbert-blomstedt/</guid>
       <description></description>
     </item>
     
@@ -26,6 +44,33 @@
       <pubDate>Fri, 07 Dec 2018 13:37:22 -0400</pubDate>
       
       <guid>https://kritiker.xyz/tag/herbert-von-karajan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ludwig Van Beethoven</title>
+      <link>https://kritiker.xyz/tag/ludwig-van-beethoven/</link>
+      <pubDate>Sun, 13 Jan 2019 15:57:22 +0100</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/ludwig-van-beethoven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recordings</title>
+      <link>https://kritiker.xyz/tag/recordings/</link>
+      <pubDate>Sun, 13 Jan 2019 15:57:22 +0100</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/recordings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symphonies</title>
+      <link>https://kritiker.xyz/tag/symphonies/</link>
+      <pubDate>Sun, 13 Jan 2019 15:57:22 +0100</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/symphonies/</guid>
       <description></description>
     </item>
     
