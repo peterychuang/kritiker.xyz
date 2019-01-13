@@ -1,10 +1,3 @@
-{{ if .IsHome }}
-  <script src='/assets/js/fullPage.min.js'></script>
-  <script>
-    fullpage.initialize('#fullpage',{anchors:['page-top','about','novels','blog','bookshelf','contact'],'scrollBar':true,menu: '#navmenu'});
-  </script>
-{{ end }}
-
 <script>
 // Blur-up header image loading
   var h = document.getElementsByTagName("header");
@@ -26,7 +19,6 @@
     location.href = this.href
   };
 
-  {{ if not .IsHome }}
 // Change colour of navbar and show footer on scroll
   var n = document.querySelector(".navbar");
       f = document.querySelector(".footer");
@@ -49,7 +41,6 @@
     if (b < w) {
       m.classList.add("show");
     };
-  {{ end }}
 
 /* Bootstrap Replacement
 
