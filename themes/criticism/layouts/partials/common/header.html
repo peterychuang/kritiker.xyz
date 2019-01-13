@@ -20,7 +20,7 @@
           {{ else if eq .Data.Singular "tag" }}
           <h1 class="brand-heading">All posts tagged “{{ .Title | markdownify }}”</h1>
           {{ else if .IsHome }}
-          <h1 class="brand-heading">{{ .Title | markdownify }}</h1>
+          <h1 class="brand-heading">{{ .Title | markdownify }} - {{ .Site.Params.subtitle }}</h1>
           {{ else }}
             {{ $section := ( .Title | humanize | title ) }}
             {{ range $.Site.Data.section }}

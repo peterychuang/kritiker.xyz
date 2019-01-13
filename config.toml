@@ -1,6 +1,6 @@
 baseURL = "https://kritiker.xyz"
 languageCode = "en-gb"
-title = "Kritiker - Classical Music"
+title = "Kritiker"
 theme = "criticism"
 publishdir = "./_output/hugo-stage-1/"
 pluralizelisttitles = "false"
@@ -8,6 +8,7 @@ footnoteReturnLinkContents = "^"
 
 [params]
   description = "Reviews and essays on classical music - recordings, live performances, and everything else."
+  subtitle = "Classical Music Reviews"
   author = "Peter Y. Chuang"
   Urlimg = "assets/img/"
 
