@@ -57,6 +57,11 @@
   <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
+        {{ if ge .WordCount 250 }}
+        <p class="word-count">
+          {{ .WordCount }} words · {{ .ReadingTime }} min read
+        </p>
+        {{ end }}
         {{ .Content }}
         <p>
           {{ if gt .WordCount 2 }}
