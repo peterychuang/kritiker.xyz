@@ -35,7 +35,7 @@ before_script:
 script:
 - hugo
 - gulp deploy
-- echo novelist.xyz > ./public/CNAME
+- echo kritiker.xyz > ./public/CNAME
 - touch ./public/.nojekyll
 - echo -e "# [Kritiker](https://kritiker.xyz)\n\nThis is the repository for the compiled HTML and static files of my website.\n\nFor the source of the website, please visit the [source branch](https://github.com/peterychuang/kritiker.xyz/tree/source)." > ./public/readme.md
 - sh ./deploy.sh
