@@ -2,3 +2,4 @@
 https://kritiker.netlify.com/* https://kritiker.xyz/:splat 301!
 
 https://kritiker.xyz/*/index.html https://kritiker.xyz/:splat/ 301!   
+https://kritiker.xyz// https://kritiker.xyz/ 301! 
