@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://kritiker.netlify.com/* https://kritiker.xyz/:splat 301!
