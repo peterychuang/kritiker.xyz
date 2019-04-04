@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kritiker.xyz/live/bayerische-staatsoper-wagner-parsifal-kirill-petrenko/</loc>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kritiker.xyz/live/oper-leipzig-tannhauser-calixto-bieito/</loc>
     <lastmod>2019-03-08T22:04:55+01:00</lastmod>
   </url>
@@ -62,13 +67,13 @@
   
   <url>
     <loc>https://kritiker.xyz/</loc>
-    <lastmod>2019-03-08T22:04:55+01:00</lastmod>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kritiker.xyz/live/</loc>
-    <lastmod>2019-03-08T22:04:55+01:00</lastmod>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,7 +85,7 @@
   
   <url>
     <loc>https://kritiker.xyz/tag/opera/</loc>
-    <lastmod>2019-03-08T22:04:55+01:00</lastmod>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,7 +103,7 @@
   
   <url>
     <loc>https://kritiker.xyz/tag/richard-wagner/</loc>
-    <lastmod>2019-03-08T22:04:55+01:00</lastmod>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
