@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kritiker.xyz/</loc>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/live/</loc>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/opera/</loc>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kritiker.xyz/live/bayerische-staatsoper-wagner-parsifal-kirill-petrenko/</loc>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/richard-wagner/</loc>
+    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/</loc>
     <lastmod>2019-04-04T16:55:55+02:00</lastmod>
   </url>
   
@@ -12,7 +36,42 @@
   </url>
   
   <url>
+    <loc>https://kritiker.xyz/tag/conductor/</loc>
+    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/gewandhausorchester-leipzig/</loc>
+    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/herbert-blomstedt/</loc>
+    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kritiker.xyz/reviews/2019-01-13-herbert-blomstedt-beethoven/</loc>
+    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/ludwig-van-beethoven/</loc>
+    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/recordings/</loc>
+    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/reviews/</loc>
+    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/symphonies/</loc>
     <lastmod>2019-01-13T15:57:22+01:00</lastmod>
   </url>
   
@@ -22,101 +81,26 @@
   </url>
   
   <url>
+    <loc>https://kritiker.xyz/essays/</loc>
+    <lastmod>2018-12-07T13:37:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kritiker.xyz/tag/herbert-von-karajan/</loc>
+    <lastmod>2018-12-07T13:37:22-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kritiker.xyz/essays/herbert-von-karajan-musicianship/</loc>
     <lastmod>2018-12-07T13:37:22-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://kritiker.xyz/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/conductor/</loc>
-    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kritiker.xyz/cookie/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/essays/</loc>
-    <lastmod>2018-12-07T13:37:22-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/gewandhausorchester-leipzig/</loc>
-    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/herbert-blomstedt/</loc>
-    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/herbert-von-karajan/</loc>
-    <lastmod>2018-12-07T13:37:22-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/</loc>
-    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/live/</loc>
-    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/ludwig-van-beethoven/</loc>
-    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/opera/</loc>
-    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/recordings/</loc>
-    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/reviews/</loc>
-    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/richard-wagner/</loc>
-    <lastmod>2019-04-04T16:55:55+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/symphonies/</loc>
-    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kritiker.xyz/tag/</loc>
-    <lastmod>2019-01-13T15:57:22+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

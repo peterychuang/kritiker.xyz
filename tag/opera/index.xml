@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opera on Kritiker</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Opera on Kritiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 04 Apr 2019 16:55:55 +0200</lastBuildDate>
-    
-	<atom:link href="https://kritiker.xyz/tag/opera/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 04 Apr 2019 16:55:55 +0200</lastBuildDate><atom:link href="https://kritiker.xyz/tag/opera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parsifal, Bayerische Staatsoper</title>
       <link>https://kritiker.xyz/live/bayerische-staatsoper-wagner-parsifal-kirill-petrenko/</link>

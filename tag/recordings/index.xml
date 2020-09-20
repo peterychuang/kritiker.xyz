@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recordings on Kritiker</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Recordings on Kritiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 13 Jan 2019 15:57:22 +0100</lastBuildDate>
-    
-	<atom:link href="https://kritiker.xyz/tag/recordings/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 13 Jan 2019 15:57:22 +0100</lastBuildDate><atom:link href="https://kritiker.xyz/tag/recordings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Herbert Blomstedt&#39;s Beethoven cycle</title>
       <link>https://kritiker.xyz/reviews/2019-01-13-herbert-blomstedt-beethoven/</link>

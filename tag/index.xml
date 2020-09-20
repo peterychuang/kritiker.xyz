@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on Kritiker</title>
@@ -6,10 +6,24 @@
     <description>Recent content in Tag on Kritiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 13 Jan 2019 15:57:22 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 16:55:55 +0200</lastBuildDate><atom:link href="https://kritiker.xyz/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opera</title>
+      <link>https://kritiker.xyz/tag/opera/</link>
+      <pubDate>Thu, 04 Apr 2019 16:55:55 +0200</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/opera/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://kritiker.xyz/tag/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Richard Wagner</title>
+      <link>https://kritiker.xyz/tag/richard-wagner/</link>
+      <pubDate>Thu, 04 Apr 2019 16:55:55 +0200</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/richard-wagner/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conductor</title>
@@ -39,29 +53,11 @@
     </item>
     
     <item>
-      <title>Herbert Von Karajan</title>
-      <link>https://kritiker.xyz/tag/herbert-von-karajan/</link>
-      <pubDate>Fri, 07 Dec 2018 13:37:22 -0400</pubDate>
-      
-      <guid>https://kritiker.xyz/tag/herbert-von-karajan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ludwig Van Beethoven</title>
+      <title>Ludwig van Beethoven</title>
       <link>https://kritiker.xyz/tag/ludwig-van-beethoven/</link>
       <pubDate>Sun, 13 Jan 2019 15:57:22 +0100</pubDate>
       
       <guid>https://kritiker.xyz/tag/ludwig-van-beethoven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opera</title>
-      <link>https://kritiker.xyz/tag/opera/</link>
-      <pubDate>Thu, 04 Apr 2019 16:55:55 +0200</pubDate>
-      
-      <guid>https://kritiker.xyz/tag/opera/</guid>
       <description></description>
     </item>
     
@@ -75,20 +71,20 @@
     </item>
     
     <item>
-      <title>Richard Wagner</title>
-      <link>https://kritiker.xyz/tag/richard-wagner/</link>
-      <pubDate>Thu, 04 Apr 2019 16:55:55 +0200</pubDate>
-      
-      <guid>https://kritiker.xyz/tag/richard-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Symphonies</title>
       <link>https://kritiker.xyz/tag/symphonies/</link>
       <pubDate>Sun, 13 Jan 2019 15:57:22 +0100</pubDate>
       
       <guid>https://kritiker.xyz/tag/symphonies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herbert von Karajan</title>
+      <link>https://kritiker.xyz/tag/herbert-von-karajan/</link>
+      <pubDate>Fri, 07 Dec 2018 13:37:22 -0400</pubDate>
+      
+      <guid>https://kritiker.xyz/tag/herbert-von-karajan/</guid>
       <description></description>
     </item>
     
